@@ -6,7 +6,7 @@ A plugin for Cursor MCP that allows you to interact with Apple Notes directly fr
 
 - Search through your Apple Notes
 - Create new notes
-- Read existing notes
+- Read existing notes.
 
 ## Installation
 
